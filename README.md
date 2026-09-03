@@ -65,42 +65,26 @@ Not particularly interested in turning every frontend project into a quantum phy
 
 ---
 
-## Projects
-
-### 🌌 Northstar
-Modern portfolio project inspired by Duolingo-style UI principles.
-
-Built with:
-- React
-- TypeScript
-- Vite
-- Modular component architecture
-- Fully responsive layout system
-
-Live:
-https://northstarmse.netlify.app/
-
----
-
 ## Long-Term Goal
 
-Build a stable engineering career abroad while continuing to create meaningful software systems that solve real problems.
+Build a stable engineering career abroad while continuing to create meaningful software systems that solve real problems. Once I turn 18 this November 22nd, 
+I will begin working as a Zomato Food Delivery Partner—putting in 11 hours a day, 6 days a week, with Mondays reserved to rest, build projects, 
+and sharpen my skills. It is all part of a calculated path to fund an affordable Computer Science degree abroad in Poland.
 
 Current direction:
 
 🇵🇱 Poland → practical path  
-🇩🇪 Germany → long-term possibility
 
 Until then:
 
-study → build → improve → repeat
+study → build → improve → sleep → repeat
 
 ---
 
 ## Contact
 
 - Portfolio: https://northstarmse.netlify.app/
-- GitHub: https://github.com/Manpreet109209
+- GitHub: https://github.com/Manpreet109209000
 - LinkedIn: https://linkedin.com/in/manpreet-se/
 - Email: manpreet.singh.1092090@gmail.com
 
